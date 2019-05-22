@@ -1,0 +1,7 @@
+language: ruby
+
+install: true
+script: true
+
+notifications:
+  email: false
